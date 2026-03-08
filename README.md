@@ -2,7 +2,6 @@
 Análisis Exploratorio de Datos (EDA) del dataset BankMarketing.csv.
 Curso "Python for Analitycs"
 
-## Proyecto Módulo 1 – Fundamentos
 # Descripción
 Aplicación desarrollada en Streamlit que integra conceptos de Programación Orientada a Objetos y Análisis Exploratorio de Datos 
 
